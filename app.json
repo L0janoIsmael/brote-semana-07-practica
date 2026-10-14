@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Brote-IFLP-Releases",
-    "slug": "brote-planificador",
+    "name": "Brote-IFLP",
+    "slug": "brote-IFLP",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
